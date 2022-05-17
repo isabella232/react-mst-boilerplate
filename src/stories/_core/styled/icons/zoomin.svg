@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
-    <title>zoomin</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="zoomin" fill="#9E9E9E">
-            <g transform="translate(33.000000, 33.000000)" id="">
-                <polygon points="445.5 238.537109 236.671875 238.537109 236.671875 445.625 207.087891 445.625 207.087891 238.537109 0 238.537109 0 208.953125 207.087891 208.953125 207.087891 0.125 236.671875 0.125 236.671875 208.953125 445.5 208.953125"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" version="1.1" viewBox="0 0 512 512"><title>zoomin</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="zoomin" fill="#9E9E9E"><g id="" transform="translate(33.000000, 33.000000)"><polygon points="445.5 238.537 236.672 238.537 236.672 445.625 207.088 445.625 207.088 238.537 0 238.537 0 208.953 207.088 208.953 207.088 .125 236.672 .125 236.672 208.953 445.5 208.953"/></g></g></g></svg>

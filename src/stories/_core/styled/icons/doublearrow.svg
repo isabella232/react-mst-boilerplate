@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>doublearrow</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="doublearrow" fill="#E0E0E0">
-            <g id="Group-28" transform="translate(35.000000, 36.000000)">
-                <polygon id="" points="441.472222 26.0594618 236.068576 219.138889 441.472222 412.218316 412.715712 438.236111 178.555556 219.138889 412.715712 0.0416666667"></polygon>
-                <polygon id="-copy" points="262.916667 26.0594618 57.5130208 219.138889 262.916667 412.218316 234.160156 438.236111 0 219.138889 234.160156 0.0416666667"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" version="1.1" viewBox="0 0 512 512"><title>doublearrow</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="doublearrow" fill="#E0E0E0"><g id="Group-28" transform="translate(35.000000, 36.000000)"><polygon id="" points="441.472 26.059 236.069 219.139 441.472 412.218 412.716 438.236 178.556 219.139 412.716 .042"/><polygon id="-copy" points="262.917 26.059 57.513 219.139 262.917 412.218 234.16 438.236 0 219.139 234.16 .042"/></g></g></g></svg>
